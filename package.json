@@ -1,0 +1,11 @@
+{
+  "name": "Watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Grzegorz Wasik <wasikgrzegorz3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
